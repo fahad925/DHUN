@@ -1,0 +1,6 @@
+echo "# DHUN" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/fahad925/DHUN.git
+git push -u origin master
